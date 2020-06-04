@@ -14,7 +14,7 @@ body {
 
 .navbar-brand h1 {
   font-family: 'Lora', serif;
-  color: black;
+  color: white;
   font-size: 1.8em;
   text-transform: uppercase;
   font-weight: bold;
@@ -64,16 +64,6 @@ body {
 
 h3 {
   font-weight: bold;
+  text-align: center;
 }
-#pizza {
-    background-color: tomato;
-    text-align: center;
-}
-#burger {
-    background-color: orange;
-    text-align: center;
-}
-#fries {
-    background-color: peru;
-    text-align: center;
-}
+
