@@ -9,3 +9,7 @@ Module2 Assignment:
 Module3 Assignment:
 - [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 - [Source code](./module3-solution)
+
+Module4 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+- [Source code]
